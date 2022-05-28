@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-dehghani&show_icons=true&theme=algolia)
+
+My Status
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjad-dehghani&theme=highcontrast)](https://git.io/streak-stats)
