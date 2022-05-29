@@ -22,9 +22,9 @@ ____
 
 ### Development tools:
 
-https://img.shields.io/badge/Spring-success?style=for-the-badge
+ <img src="https://img.shields.io/badge/Spring-success?style=for-the-badge">
 
-https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge
+ <img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge">
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/324ecb8e3920e6c4826b60f2afd553c8a1b6ea87782030de0eaa65bb8c8b2919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/324ecb8e3920e6c4826b60f2afd553c8a1b6ea87782030de0eaa65bb8c8b2919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
