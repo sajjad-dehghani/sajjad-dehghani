@@ -1,4 +1,4 @@
-### Hello, I am Sajjad (available for a remote job)
+# Hello, I am Sajjad (available for a remote job)
 
 ____
 
@@ -9,16 +9,17 @@ My name is Sajjad Dehghani and I'm a BackEnd Developer.
 - 🔭 I’m working as a Software Engineer and backend for building web applications at MISC Co.
 - 🌱 I’m currently java and spring framework ...
 
-
+<p align="center">
 ![https://www.linkedin.com/in/sajjaddehghani](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://github.com/sajjad-dehghani](https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge)
 ![mailto:sajjad.dehghani68@gmail.com](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
+</p>
 ____
 
-# Languages and Tools :
+### Languages and Tools :
 
 
-# My Github Stats
+### My Github Stats
 
 ![](https://komarev.com/ghpvc/?username=sajjad-dehghani&color=brightgreen)
 
