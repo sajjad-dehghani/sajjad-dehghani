@@ -20,7 +20,7 @@ My name is Sajjad Dehghani and I'm a BackEnd Developer.
 
 ____
 
-### Development tools:
+### Development Tools:
 <p align="center">
    <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge">
    <img src="https://img.shields.io/badge/php-blueviolet?style=for-the-badge">
