@@ -13,7 +13,7 @@ My name is Sajjad Dehghani and I'm a BackEnd Developer.
   <a href="https://www.linkedin.com/in/sajjaddehghani">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href=" [https://github.com/sajjad-dehghani"
-  <img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge"/></a>
   <a href="mailto:sajjad.dehghani68@gmail.com"
   <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 </p>
