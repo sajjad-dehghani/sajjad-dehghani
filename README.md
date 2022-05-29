@@ -15,6 +15,9 @@ My name is Sajjad Dehghani and I'm a BackEnd Developer.
     <a href="https://twitter.com/sajjad_null"><img src="https://img.shields.io/badge/twitter-4daedb.svg?style=for-the-badge"></a>
   <a href="mailto:sajjad.dehghani68@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://medium.com/@sajjad_dehghani">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajjad-dehghani&color=brightgreen"/>
