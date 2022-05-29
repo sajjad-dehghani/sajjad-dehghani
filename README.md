@@ -17,10 +17,12 @@ My name is Sajjad Dehghani and I'm a BackEnd Developer.
   <a href="mailto:sajjad.dehghani68@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 </p>
+
 ____
 
 ### Languages and Tools :
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" />
 
 ### My Github Stats
 
