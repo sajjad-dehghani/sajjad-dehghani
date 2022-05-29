@@ -1,8 +1,5 @@
 # Hello, I am Sajjad (available for a remote job)
 
-____
-
-
 About Me :
 My name is Sajjad Dehghani and I'm a BackEnd Developer. 
 
