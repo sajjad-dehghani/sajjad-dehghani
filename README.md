@@ -18,7 +18,7 @@ My name is Sajjad Dehghani and I'm a BackEnd Developer.
   <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 
 </p>
-</p aligen="center">
+</p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajjad-dehghani&color=brightgreen"/>
 </p>
 ____
