@@ -50,15 +50,16 @@ ____
 
 
 
-### My Github Stats
+### My Github Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-dehghani&show_icons=true&theme=algolia)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjad-dehghani&theme=highcontrast)](https://git.io/streak-stats)
+  
 ____
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjad-dehghani&theme=highcontrast)](https://git.io/streak-stats)
-  
+
 ____
 
   
