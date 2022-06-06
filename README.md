@@ -4,7 +4,7 @@ About Me :
 My name is Sajjad Dehghani and I'm a BackEnd Developer. 
 
 - 🔭 I’m working as a Software Engineer and backend for building web applications at MISC Co.
-- 🌱 I’m currently work with php and java, laravel/spring framework and miroservices.
+- 🌱 I’m currently working with php and java, laravel/spring framework and miroservices.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sajjaddehghani">
