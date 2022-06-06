@@ -52,19 +52,19 @@ ____
 
 ### My Github Stats
 
-
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-dehghani&show_icons=true&theme=algolia)
-
+</p>
 ____
 
-
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjad-dehghani&theme=highcontrast)](https://git.io/streak-stats)
-
+</p>
 ____
 
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-dehghani&&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 <!--
 **sajjad-dehghani/sajjad-dehghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
